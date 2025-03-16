@@ -25,27 +25,12 @@ I don’t have strong recommendations yet for printing these parts, so feel free
 | Printer | Bambulabs X1C |
 | Nozzle | 0.2 mm |
 | Bed | Smooth PEI plate |
-| Filament | Sunlu black ABS (Bambu ABS preset) |
+| Filament | Bambu PLA |
 | Layer height | 0.06 \- 0.1 mm (High Quality setting) |
 
 The individual parts are designed to be printed in specific orientations. Auto-orientation features of your slicer should figure it out correctly, but please double-check the screenshot below.
 
 ![image](https://github.com/user-attachments/assets/b8c0f9ab-21cb-4b51-ad36-22f537edf54b)
-
-
-### Settings per Part
-
-I’m using quite a large brim on some parts mainly because I’m printing with ABS which tends to warp when printing some types of geometry. I also had some bed adhesion issues with smaller parts.
-
-| Part | Settings |
-| ----: | :---- |
-| Lower frame holder | 10 mm brim inside and outside Normal support / 29 deg threshold |
-| Upper frame holder | 5 mm brim outside |
-| Advance dial \+ axle | \- |
-| Small axle | 10 mm brim |
-| Indexing ring | \- |
-| Indexing knob | 5 mm brim |
-| Bracket | 5 mm brim Tree support / 29 deg threshold |
 
 ## Assembly
 
